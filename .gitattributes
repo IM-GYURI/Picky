@@ -1,0 +1,2 @@
+exec/DB_덤프_파일/picky-dump.sql filter=lfs diff=lfs merge=lfs -text
+picky-be/data/quiz_wiki_all.csv filter=lfs diff=lfs merge=lfs -text
